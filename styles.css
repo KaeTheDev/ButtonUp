@@ -1,0 +1,24 @@
+.button-one {
+    border: 1px solid seagreen;
+    color: green;
+    border-radius: 20px 20px;
+    padding: 5px 5px 5px 5px;
+    width: 150px;
+}
+
+.button-two {
+    border-radius: 50%;
+    border: none;
+    background-color: darkgreen;
+    width: 35px;
+    height: 35px;
+    color: white;
+}
+
+.button-three {
+background-color: lightskyblue;
+color: white;
+padding: 10px 10px 10px 10px;
+width: 150px;
+box-shadow: 5px 5px black;
+}
